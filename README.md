@@ -98,7 +98,7 @@ List of curated UI libraries, templates and inspirations
 - Only **official MCP** are allowed and included
 
 | Name             | Framework | Repository                                         | Website                                 | PRO                                       | Favorite | MCP                                    |
-| ---------------- | --------- | -------------------------------------------------- | --------------------------------------- | ----------------------------------------- | -------- | -------------------------------------- | --- |
+| ---------------- | --------- | -------------------------------------------------- | --------------------------------------- | ----------------------------------------- | -------- | -------------------------------------- |
 | 8bitcn           | React     | <https://github.com/TheOrcDev/8bitcn-ui>           | <https://www.8bitcn.com>                | -                                         | -        | -                                      |
 | 9ui              | React     | <https://github.com/borabaloglu/9ui>               | <https://www.9ui.dev>                   | -                                         | Top 3    | -                                      |
 | Aceternity       | React     | -                                                  | <https://ui.aceternity.com>             | [Yes](https://pro.aceternity.com)         | Top 2    | -                                      |
